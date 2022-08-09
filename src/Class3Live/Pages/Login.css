@@ -1,0 +1,30 @@
+.user_style {
+    padding: 2px;
+    margin: 6px;
+    border: 2px;
+    font-size: 16px;
+    height: 40px;
+    width: 380px;
+    display: block;
+}
+.password_style {
+    padding: 2px;
+    margin: 6px;
+    border: 2px;
+    font-size: 16px;
+    height: 40px;
+    width: 380px;
+    display: block;
+}
+.login_style {
+    padding: 2px;
+    margin: 6px;
+    border: 2px;
+    font-size: 16px;
+    height: 30px;
+    width: 80px;
+    display: block;
+    background: #3737b2;
+    color: white;
+    float: right;
+}
